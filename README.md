@@ -24,6 +24,7 @@ Przed przystąpieniem do napisania programu należy przyjąć następujące zał
 <li>N-oid wystartował ze środka kartezjańskiego układu odniesienia</li>
 <li>Pierwszy wektor w marszrucie jest zdefiniowany prawidłowo</li>
 </ul>
+
 ### Wejście
 Pierwsza linijka wejścia zawiera dokładnie jedną liczbę całkowitą d ∈ [1;4], określającą liczbę zestawów danych.
 
